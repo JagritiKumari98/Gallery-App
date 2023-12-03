@@ -31,5 +31,5 @@ Provide step-by-step instructions on how to install your iOS app. For example:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-ios-app.git
+   git clone https://github.com/JagritiKumari98/Gallery-App.git
 
